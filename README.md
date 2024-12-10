@@ -1,5 +1,3 @@
-# Object_follower_bot
- A simple web app built with Django that allows users to track and log topics they are learning, along with detailed entries for each topic.
 # 📝 Learning Log
 
 The **Learning Log** is a web application that allows users to track topics they are learning about and make entries on those topics. Built with Django, it provides a simple and intuitive interface for organizing and reflecting on your learning journey.
@@ -23,7 +21,7 @@ Make sure you have the following installed:
 1. Clone the repository:
   
     ```bash
-    git clone https://github.com/nitheeshpotla/Object_follower_bot.git
+    git clone https://github.com/Harsha-Hemanth/Learning-log.git
     cd Learning-log
     ```
 
@@ -74,4 +72,4 @@ Make sure you have the following installed:
 - Allow users to upload and attach resources (e.g., PDFs, images) to their entries.
 
 ## 👤 Author
-- **[Nitheesh Potla]((https://github.com/nitheeshpotla))** - Developer & Maintainer
+- **[Harsha Hemanth](https://github.com/Harsha-Hemanth)** - Developer & Maintainer
