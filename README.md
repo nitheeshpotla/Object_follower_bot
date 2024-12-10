@@ -23,7 +23,7 @@ Make sure you have the following installed:
 1. Clone the repository:
   
     ```bash
-    git clone https://github.com/Harsha-Hemanth/Learning-log.git
+    git clone https://github.com/nitheeshpotla/Object_follower_bot.git
     cd Learning-log
     ```
 
